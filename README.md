@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 
 # ✏ Skills ✏ #
-<p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   
-</p>
+
 # 🗒 Study 🗒 #
 
 <a href="https://sejeongak.github.io/"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a>
