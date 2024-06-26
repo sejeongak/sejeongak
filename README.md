@@ -28,11 +28,12 @@ Here are some ideas to get you started:
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
   <img alt="Scikit Learn" src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
