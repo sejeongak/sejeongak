@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/-scikitlearn-F7931E?style=flat-square&logo=Scikit Learn&logoColor=white" />
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 
