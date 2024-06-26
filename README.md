@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejeongak)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 Github Stats 📊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejeongak&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejeongak)](https://github.com/anuraghazra/github-readme-stats)
+# 🖥️ Most Used Language 🖥️
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejeongak&layout=compact&theme=radical)
 
-<h3>Things I code with</h3>
+# 🏅 Baekjoon solved rank 🏅
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj5459)](https://solved.ac/sj5459/)
+
+
+# ✏ Skills ✏ #
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
