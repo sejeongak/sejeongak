@@ -49,8 +49,8 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   
 </p>
-<h3>Open source projects</h3>
+# 🗒 Blog 🗒 #
 
-<a href="https://sejeongak.github.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://sejeongak.github.io/"><img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
